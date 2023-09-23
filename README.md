@@ -2,4 +2,4 @@
 Nama : Abdurrahman
 NPM : 202143500607
 
-silahkan di cek mohon maaf kalau masih salah 
+mohon maaf kalau masih ada salah
